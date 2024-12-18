@@ -1,5 +1,6 @@
 # Sri Lanka Climate Zone Analysis
 
+![A screenshot of the final Streamlit application]("SS of application.png")
 
 ## Project Overview
 An interactive Streamlit application for analyzing and visualizing climate zones in Sri Lanka using machine learning and geospatial techniques.
